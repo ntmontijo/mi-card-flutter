@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Programming stuff\\Flutter\\mi_card_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "outputFile": "E:\\Programming stuff\\Flutter\\mi-card-flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nicolas Torgersen\\.gradle\\caches\\transforms-3\\cdc8381483b8f93e69df15ad3eb1e86a\\transformed\\core-1.6.0\\res\\values-ar\\values-ar.xml",

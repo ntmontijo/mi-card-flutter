@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.orange[900],
                   ),
                   title: Text(
-                    '+1 (916)770-9115',
+                    '+1 (435)319-0197',
                     style: TextStyle(
                       color: Colors.green[800],
                       fontFamily: 'Press Start 2P',
@@ -129,7 +129,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.orange[900],
                   ),
                   title: Text(
-                    'github/ntmontijo',
+                    'github.com/ntmontijo',
                     style: TextStyle(
                       color: Colors.green[800],
                       fontFamily: 'Press Start 2P',

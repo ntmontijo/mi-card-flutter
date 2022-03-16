@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Programming stuff\\Flutter\\mi_card_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\Programming stuff\\Flutter\\mi-card-flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "F:\\Programming stuff\\Flutter\\mi_card_flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\Programming stuff\\Flutter\\mi-card-flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
