@@ -1,0 +1,30 @@
+name: mi_card
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - images/
+
+  fonts:
+  - family: Press Start 2P
+    fonts:
+      - asset: fonts/PressStart2P-Regular.ttf
+  - family: Source Code Pro
+    fonts:
+      - asset: fonts/SourceCodePro-VariableFont_wght.ttf
